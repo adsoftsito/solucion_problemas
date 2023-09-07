@@ -9,5 +9,10 @@
 # Sesion 3 - Instalacion/configuracion de Flutter/Dart
 1. Install, Test [Flutter y Dart](https://docs.flutter.dev/get-started/install)
   - Opcional, realizar un Fork del [repo-flutter](https://github.com/adsoftsito/adsoft-flutter) para correr flutter desde Codespaces
-2. Dart [Getting started](https://dart.dev/tutorials/server/get-started)
-3. First [Flutter App](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=es-419#0)
+
+
+# Rubrica Parcial 1
+
+1. Dart [Getting started](https://dart.dev/tutorials/server/get-started) --> 20 pts
+2. First [Flutter App](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=es-419#0) --> 40 pts
+3. Curso [Python completo](https://github.com/adsoftsito/python/) --> 40 pts
